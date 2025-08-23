@@ -1,6 +1,5 @@
-## Luna (Do Hoang Huong Lien)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&lines=Hi+there!+I%E2%80%99m+Luna+👋;Welcome+to+my+Universe+🌏+!;IT+Developer+Enthusiast+👩‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Hi+there!+I%E2%80%99m+Luna+👋;Exploring+My+Universe+🌏;Full+of+Energy+🔋;Love+for+Freedom+🕊️;Tech+👩‍💻+and+Travel+✈️)](https://git.io/typing-svg)  
+----
 
 🎓 **About Me**
 - **Name**: Luna Do  

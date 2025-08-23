@@ -43,7 +43,3 @@
 😄 **Fun Fact**  
 - Persistence and curiosity drive me—I love learning new technologies and building projects from scratch!  
 - I also aspire to explore the world and experience all countries 🌏  
-
----
-
-![Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luna010209&show_icons=true&theme=tokyonight)

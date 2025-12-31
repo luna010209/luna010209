@@ -37,7 +37,7 @@
 - Full-stack web development  
 
 📫 **More about me**  
-- Email: [liendhhha140217@gmail.com](mailto:liendhhha140217@gmail.com)  
+- Email: [lunado@recycleledger.com](mailto:lunado@recycleledger.com)  
 - LinkedIn: [Luna LinkedIn](https://www.linkedin.com/in/luna-do-32723b303seoul/)  
 
 😄 **Fun Fact**  

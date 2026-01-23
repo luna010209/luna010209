@@ -2,8 +2,9 @@
 ----
 
 🎓 **About Me**
-- **Name**: Luna Do  
-- **Location**: Korea  
+- **Name**: Luna Do
+- **Nationality**: Vietnam
+- **Location**: South Korea  
 - **Education**: 
   - Master’s degree in Global Korean Studies, **Sogang University**  
   - Currently pursuing Master’s in **Data Science (Cyber Program), Liverpool John Moores University**  
